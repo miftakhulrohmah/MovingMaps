@@ -14,8 +14,6 @@ import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.model.CameraPosition;
 import com.google.android.gms.maps.model.LatLng;
 
-import id.sch.smktelkom_mlg.startmaps.R;
-
 public class MainActivity extends AppCompatActivity implements OnMapReadyCallback {
 
     static final CameraPosition Bandung = CameraPosition.builder()
